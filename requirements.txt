@@ -1,0 +1,17 @@
+# Core Data Libraries
+pandas==2.2.3
+numpy==1.26.4
+
+# Financial Data
+yfinance==0.2.52
+fredapi==0.5.2
+
+# Optimization & Math
+scipy==1.14.1
+
+# Visualization
+matplotlib==3.9.2
+
+# Optional but recommended (for reproducibility)
+python-dateutil==2.9.0.post0
+requests==2.32.3
