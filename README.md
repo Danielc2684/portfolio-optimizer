@@ -1,12 +1,11 @@
 Portfolio Optimization with Live Market Data
 
 This project uses real market data to build an **optimized investment portfolio** using Python.  
-It applies **Modern Portfolio Theory (MPT)** — created by Harry Markowitz — to find the best combination of assets that maximizes return for a given level of risk.
+It applies **Modern Portfolio Theory (MPT)** created by Harry Markowitz to find the best combination of assets that maximizes return for a given level of risk.
 
 The goal is simple:  
 > Find the most efficient mix of assets that gives the highest **Sharpe ratio** (risk-adjusted return).
 
----
 
 ##  What This Project Does
 
@@ -21,7 +20,6 @@ This Python script:
    - Max 50% allocation per asset
 6. Displays the results — expected annual return, volatility, and Sharpe ratio — along with a bar chart of optimal weights.
 
----
 
 ## Tools Used
 
