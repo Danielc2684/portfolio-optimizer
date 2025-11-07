@@ -10,7 +10,7 @@ The goal is simple:
 ##  What This Project Does
 
 This Python script:
-1. Downloads 1 year of daily price data for selected assets (`QQQ`, `SPY`, `GLD`, and `NQ=F`) using **Yahoo Finance**.
+1. Downloads 1 year of daily price data for selected assets (`QQQ`, `SPY`, `GLD`, and `AAPL`) using **Yahoo Finance**.
 2. Calculates **logarithmic returns** (which represent continuous compounding).
 3. Builds an **annualized covariance matrix** to measure how assets move together.
 4. Retrieves the **10-Year U.S. Treasury Yield** from the **Federal Reserve (FRED)** to use as the **risk-free rate**.
